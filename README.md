@@ -1,10 +1,11 @@
-# <div align="center"> Lourdes Mendoza </div>  
+### <div align="center"> Lourdes Mendoza </div>  
  
 
 <div align="center"> Hello! I'm a social work professional turned front-end developer with an interest in supporting the creation of accessible, human centered technology. </div>  
   
 ---
 
+### <div align="center"> Stats </div>  
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=mendozalourdes&hide=stars&show_icons=true&theme=maroongold">
 </p>
