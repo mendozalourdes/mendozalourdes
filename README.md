@@ -1,4 +1,4 @@
-### <div align="center"> Lourdes Mendoza </div>  
+# <div align="center"> Lourdes Mendoza </div>  
  
 
 <div align="center"> Hello! I'm a social work professional turned front-end developer with an interest in supporting the creation of accessible, human centered technology. </div>  
@@ -29,7 +29,6 @@
 <br/>  
 
 
-### Hi there 👋
 
 <!--
 **mendozalourdes/mendozalourdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
