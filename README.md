@@ -1,3 +1,10 @@
+# <div align="center"> Lourdes Mendoza </div>  
+ 
+
+<div align="center"> Hello! I'm a social work professional turned front-end developer with an interest in supporting the creation of accessible, human centered technology. </div>  
+  
+---
+
 ### Hi there 👋
 
 <!--
