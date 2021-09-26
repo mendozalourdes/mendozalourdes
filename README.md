@@ -12,6 +12,12 @@
  
 ---
 
+## Projects I am proud of! 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mendozalourdes&repo=LessonsFromAbuelita&theme=radical)](https://github.com/mendozalourdes/LessonsFromAbuelita)
+
+
+
 
 ### <div align="center"> Technologies </div>  
 
