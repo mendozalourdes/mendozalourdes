@@ -7,7 +7,7 @@
 
 ### <div align="center"> Stats </div>  
 <p align='center'>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=mendozalourdes&hide=stars&show_icons=true&theme=radical">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=mendozalourdes&hide=stars&count_private=true&show_icons=true&theme=radical">
 </p>
  
 ---
