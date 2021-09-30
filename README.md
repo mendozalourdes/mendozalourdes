@@ -18,6 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashton-huxtable&repo=painting-by-hex-number&theme=radical)](https://github.com/mendozalourdes/painting-by-hex-number)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mendozalourdes&repo=astro-fit-of-the-day&theme=radical)](https://github.com/mendozalourdes/astro-fit-of-the-day)
 
 
 
