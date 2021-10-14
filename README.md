@@ -12,13 +12,6 @@
  
 ---
 
-### <div align="center"> Top Languages </div>  
-<p align='center'>
-!src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendozalourdes&layout=compact&theme=tokyonight"
-</p>
-
----
-
 
 ## Projects I'm Proud of:  
 
