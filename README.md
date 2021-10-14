@@ -12,6 +12,14 @@
  
 ---
 
+### <div align="center"> Top Languages </div>  
+<p align='center'>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aferencz1987&layout=compact&theme=tokyonight)
+</p>
+
+---
+
+
 ## Projects I'm Proud of:  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mendozalourdes&repo=LessonsFromAbuelita&theme=radical)](https://github.com/mendozalourdes/LessonsFromAbuelita)
