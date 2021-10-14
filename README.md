@@ -14,7 +14,7 @@
 
 ### <div align="center"> Top Languages </div>  
 <p align='center'>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mendozalourdes&layout=compact&theme=tokyonight)
+!src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendozalourdes&layout=compact&theme=tokyonight"
 </p>
 
 ---
