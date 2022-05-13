@@ -12,8 +12,11 @@
  
 ---
 
+https://github.com/mendozalourdes/mastermind-game
 
 ## Projects I'm Proud of:  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mendozalourdes&repo=mastermind-game&theme=radical)](https://github.com/mendozalourdes/mastermind-game)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mendozalourdes&repo=astro-fit-of-the-day&theme=radical)](https://github.com/mendozalourdes/astro-fit-of-the-day)
 
